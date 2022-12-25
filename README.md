@@ -6,4 +6,5 @@
 ## Contact
 You can contact me with:
 * Email: [nikola.stojkovski.ns@gmail.com](mailto:nikola.stojkovski.ns@gmail.com)
+* Discord: `Plantt#6896`
 * *No other way known*
