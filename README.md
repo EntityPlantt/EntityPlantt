@@ -1,6 +1,6 @@
 # It's me, **EntityPlantt!**
 
-* I am 13 years old
+* I'm a boy
 * My favorite language is JavaScript, I have many repos with JS
 
 ## Contact
