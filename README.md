@@ -1,10 +1,16 @@
-# It's me, **EntityPlantt!**
+# It's me, **Plantt!**
 
-* I'm a boy
-* My favorite language is JavaScript, I have many repos with JS
+I am **Nikola Stojkovski**, male from Skopje, Macedonia. I am currently enrolled in Mathematics-Informatics Gymnasium as secondary education.
+
+I have been competing in programming since 2021, and I have a few bronze medals on European Junior OI and Balkan Junior OI, and a few gold, silver and bronze medals on Macedonian OI.
+
+I have made some projects with JavaScript (Node.JS (express, EJS for SSR of webpages), Next, TypeScript), CSS (Tailwind), HTML, C++ (competitive programming, Raylib), Java (Minecraft mods), MCFunction and probably more languages.
+
+## Other hobbies
+
+Mostly gaming. Big ULTRAKILL (P-ranked every normal level on Standard diff!), Undertale, Deltarune, Minecraft, Terraria and Pizza Tower enthusiast.
 
 ## Links
-[![entityplantt.cyclic.app](https://resizer.pictures/w=20_h=20/entityplantt.cyclic.app/static/favicon.ico) entityplantt.cyclic.app](https://entityplantt.cyclic.app/)  
 [![vjudge.net](https://resizer.pictures/w=20_h=20/vjudge.net/favicon.ico) EntityPlantt](https://vjudge.net/user/EntityPlantt)  
 [![reddit.com](https://resizer.pictures/w=20_h=20/reddit.com/favicon.ico) PlanttDaMinecraftGuy](https://www.reddit.com/user/PlanttDaMinecraftGuy)  
 ![discord.gg](https://resizer.pictures/w=20_h=20/discord.com/assets/847541504914fd33810e70a0ea73177e.ico) entityplantt  
